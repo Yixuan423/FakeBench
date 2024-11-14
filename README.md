@@ -39,7 +39,7 @@ Please download the image part of the FakeBench and place the images under the F
 
 `python eval/eval_FakeClass.py`
 
-(4) Submit the results.
+### Step 3: Submit the results
 
 **Note:** Please make sure that all your results are in the **UTF-8 FORMAT**.
 You should get 4 `.json` files after evaluation, Please submit them to us together with the name of your tested MLLM through one of the following:
