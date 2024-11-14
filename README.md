@@ -24,7 +24,7 @@ The 6,000 fake and real images can be downloaded via:https://portland-my.sharepo
 ## Submission Guidelines
 To avoid corpus leakage, the labeled data is not publicly released where only the query data is can be publicly obtained. You are encouraged to submit your model's response to us following the steps below:
 ### Step 1. Download the images.
-Please download the image part of the FakeBench and place the images under the FakeBench_images folder. This folder contains two subfolders by default, including `fake_images` and `real_images`.
+Please download the image part of the FakeBench and place the images under the FakeBench_images folder. This folder contains two subfolders by default, including `fake_images` and `real_images`. You need to manually switch the real and fake image folders to test them respectively, or you can put all images together under one folder and change the testing dir correspondingly.
 
 `NOTE: Please note that FakeBench is a purely scientific research, non-profit, non-commercial project; the use of the process of strict compliance with Creative Commons Attribution-NonCommercial (CC BY-NC), such as the use of the data, is found to be training models; we reserve the right to take ALL measures.`
 ### Step 2. Evaluation
@@ -53,7 +53,7 @@ You should get 4 `.json` files after evaluation, Please submit them to us togeth
 We will return the evaluation feedback to you in no time.
 
 ## The Leaderboard
-**Any models wanna be tested on FakeBench, please contact us!**
+:smiley:**Any models wanna be tested on FakeBench, please contact us!**
 ### Detection
 <img src = "https://github.com/Yixuan423/FakeBench/blob/main/figures/result1.png" width ="700px">
 
