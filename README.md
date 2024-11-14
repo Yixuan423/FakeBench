@@ -1,14 +1,17 @@
-# FakeBench
+# FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models
 
-The released data and evaluation codes for the paper entitled "**FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models**"
+:octocat:The released data and evaluation codes for the paper entitled "**FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models**"
 
-Please be notified that we do not release the labeled data to avoid corpus leakage.
+**FakeBench** [<img src="https://public.boxcloud.com/api/2.0/files/774931772678/content?preview=true&version=832360847987&access_token=1!t93jiC0g4xSULSV9Vt9aC1Xp31f1qBA4F1PgsSetODkOIfRTDLjAYHQix544T2ITALUcLWLaau6vVVdC0Zg2mA2y_zc4lbcIlhLpAWGHN73Wh3V7kHX9L-GZ5D5x0rrfGY2NmnIUaw7bvTwpAe_69Xzw3gQe3U625Htx8f9iPmwXGG7RDu0jSxSo0xx6Mk7lj44prad-FQCuiFNhvCqE9W15WqZNZwNveb1pj8pYbvI18omn8nAFdcN2AEZfuUjYASX1qcsrZDvS9L1Gjl1Qdamd2E_kkDq7-OQ1Bsq6mQKxjcCVWtPrujxKbjQXpsFb3Bywg5d1zCudagmGgpC31ASdg0HUKQR0yBtnwRHV-W6YFzCFh1ENLoyCZsYYNGrmBe4TeuKOZewR9Fjah9jiCOgdfmL7AMC9N9zPU4yYjW9IXg6KYiDlBCm59R_VsDjq0OKgs7g4iZQsCaENjgY6hVDO7kOikbkUKokgAXf6R7GUTC3_FnJu1eT6p2h1ile_4lAAwbO_ZJPUh8f6hVMbSWfJQJBtsQnUMacibwUslRDVLdR3fYBj522ZDDFArGCjKrgj7zGyHyiLlWEajrpsGuakLpPfADP2wSTiXA..&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logo-svg&box_client_name=box-content-preview&box_client_version=2.110.0" width="40" height="40">](https://arxiv.org/abs/2404.13306)
 
-You are highly welcome to use the evaluation codes and submit your model responses to us to obtain the performance measures.
 
-Go to the **Submission Guideline** below for more details.
+:speak_no_evil:Please be notified that we **do not** release the labeled data to avoid corpus leakage but only **evaluation queries and codes**.
 
-If you find our work useful, please give us a star :star2: for this repository.
+:ok_woman:You are highly welcome to use the evaluation codes and submit your model responses to us to obtain the performance measures.
+
+:ok_woman:Go to the **Submission Guideline** below for more details.
+
+:bow:If you find our work useful, please give us a star :star2: for this repository！
 
 ## Brief Introduction
 <img src = "https://github.com/Yixuan423/FakeBench/blob/main/figures/intro.png" width ="400px">
@@ -25,6 +28,7 @@ Please download the image part of the FakeBench and place the images under the F
 
 `NOTE: Please note that FakeBench is a purely scientific research, non-profit, non-commercial project; the use of the process of strict compliance with Creative Commons Attribution-NonCommercial (CC BY-NC), such as the use of the data, is found to be training models; we reserve the right to take ALL measures.`
 ### Step 2. Evaluation
+Replace your ChatModel in each `eval_*.py`. The example is based on the GeminiPro v1.
 （1）Evaluate on FakeClass:
 
 `python eval/eval_FakeClass.py`
@@ -63,7 +67,7 @@ We will return the evaluation feedback to you in no time.
 <img src = "https://github.com/Yixuan423/FakeBench/blob/main/figures/result4.png" width ="500px">
 
 ## Citation Information
-If you find our paper useful, please kindly cite it.
+:bow:If you find our paper useful, please kindly cite it.
 ```
 @article{li2024fakebench,
   title={FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models},
