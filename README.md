@@ -1,4 +1,4 @@
-# FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models
+# [TIFS2025]FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models
 
 :octocat:The released data and evaluation codes for the paper entitled "**FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models**"
 
