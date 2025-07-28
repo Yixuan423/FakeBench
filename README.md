@@ -2,9 +2,9 @@
 
 :octocat:The released data and evaluation codes for the paper entitled "**FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models**"
 
-It has been officially accepted by IEEE Transactions on Information Forensics and Security recently!
+It has been officially accepted by **IEEE Transactions on Information Forensics and Security** recently!
 
-**FakeBench** [<img src="https://public.boxcloud.com/api/2.0/files/774931772678/content?preview=true&version=832360847987&access_token=1!L51xTr_tAZkHYIZfzIlCq58bh-T_80kC-ktqRYOPeZgJR8DGCIlc_yz1c0YzYAwjNzfY24F9TAJDlEVs941I7Q_PwWKlrKaDCXx9f04MgjvgWr20O36woXX6P6RA7ACpuayC8bI8XrSUZDVbeHIrVmXen-4yBGd9o0Ny7NGI69EldvzwbhgwDgBfhLlJh30106nxRqNsnwfsr6g_f2SS0jH__YuVMjpCmRxp3mBkr7yoMSu67_fo7_iVbQHYWj6U7u9klwg1tfHzDq9ZdBPAWybHPpfRsAjqgQyFlR5MIMcRVkfTmpsIvd9CPOsrf0R62f3DTWwYyOdx1lVrlNC3oe3dH5xDe0TFmA4ZfQ2CMHcFgdVmcA4xF4f3G6-B7iNYBJKVv1umX0R7I3o8xB8dpqfEd0rN3lWnNntfnIlM2mDrKbEZWl8e-f3QWlb7-LkHKnW3SF96U4KnxrMXP2aYx60BaYT7Cgvfx4n90bYhUHAszV-cZhjsihBM1ecFoPxc5-1F1tButdl_gBA1L9S5xxcrCJmPvQ8VmuAmK2J_PQDUs5CzcRtVb4QLgmm7eE_djtyAxIpsKPop3Fx8ra00PYoxHBQmyCp_mTy0ng..&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logo-svg&box_client_name=box-content-preview&box_client_version=2.110.0" width="40" height="40">](https://arxiv.org/abs/2404.13306)
+**FakeBench**[ArXiv link](https://arxiv.org/abs/2404.13306)
 
 
 :speak_no_evil:Please be notified that we **do not** release the labeled data to avoid corpus leakage but only **evaluation queries and codes**.
