@@ -71,11 +71,12 @@ We will return the evaluation feedback to you in no time.
 If you find our paper useful, please kindly cite it.
 ```
 @article{li2024fakebench,
-  title={FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models},
-  author={Li, Yixuan and Liu, Xuelin and Wang, Xiaoyang and Wang, Shiqi and Lin, Weisi},
+  title={Fakebench: Probing explainable fake image detection via large multimodal models},
+  author={Li, Yixuan and Liu, Xuelin and Wang, Xiaoyang and Lee, Bu Sung and Wang, Shiqi and Rocha, Anderson and Lin, Weisi},
   journal={arXiv preprint arXiv:2404.13306},
   year={2024}
 }
+
 
 ```
 
